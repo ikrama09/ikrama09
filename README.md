@@ -395,3 +395,134 @@ A modern personal portfolio showcasing technical skills, projects, and achieveme
 ---
 
 > 🚀 **GitHub Analytics, Trophy Section, Contribution Graph, Snake Animation & Premium Footer continue in Part 3.**
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikrama09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrama09&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrama09&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ikrama09&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikrama09&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+> **⚠️ This animation will appear after GitHub Actions are configured.**
+
+<img src="https://raw.githubusercontent.com/ikrama09/ikrama09/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ⚡ Current Focus
+
+```yaml
+Current:
+  Learning:
+    - Java Advanced
+    - Spring Boot
+    - React.js
+    - Node.js
+    - Artificial Intelligence
+    - Machine Learning
+    - Data Structures & Algorithms
+
+  Building:
+    - AI Integrated Web Application
+    - UrbanRide Car Rental Platform
+    - Portfolio Website
+    - Full Stack CRUD Platform
+
+  Exploring:
+    - Cloud Computing
+    - Docker
+    - Kubernetes
+    - System Design
+    - Microservices
+
+  Open_To:
+    - Software Engineer
+    - Full Stack Developer
+    - Java Developer
+    - Backend Developer
+    - AI Engineer
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ikrama20067@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ikrama-kathiyara">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ikrama09">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 💜 Support
+
+<div align="center">
+
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building scalable software, solving real-world problems, and continuously learning every day."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:312E81,20:4F46E5,40:6D28D9,70:7C3AED,100:A855F7"/>
+
+</div>
