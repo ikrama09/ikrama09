@@ -132,3 +132,266 @@ Currently, I'm expanding my expertise in **Artificial Intelligence**, **Machine 
 # 📂 Featured Projects
 
 > 🚧 **Premium Project Showcase will continue in Part 2.**
+> # 🚀 Featured Projects
+
+<details>
+<summary><b>🤖 AI Integrated Web Application</b></summary>
+
+<br>
+
+### 📖 Overview
+
+A production-ready AI-powered web application that integrates Machine Learning models into a modern React.js frontend using Node.js REST APIs. Designed to provide intelligent features with optimized response time and scalable architecture.
+
+| Category | Details |
+|----------|----------|
+| 🛠 Stack | React.js • Node.js • Express.js • Python • TensorFlow |
+| 📈 Scale | Production Ready |
+| ⚡ Performance | Optimized API Response |
+| 🔒 Security | Secure REST Architecture |
+| 🎯 Impact | AI-powered User Experience |
+| 📂 Repository | Coming Soon |
+
+### ✨ Key Features
+
+- 🤖 AI & Machine Learning Integration
+- ⚡ Real-time Predictions
+- 🔗 REST API Architecture
+- 📊 Intelligent Dashboard
+- 📱 Responsive UI
+- 🔥 Optimized Backend
+- 🧩 Modular Components
+- 🚀 Scalable Design
+
+</details>
+
+---
+
+<details>
+<summary><b>🚗 UrbanRide - Car Rental Platform</b></summary>
+
+<br>
+
+### 📖 Overview
+
+A premium full-stack vehicle booking platform that enables users to browse, reserve, and manage rental vehicles through a clean and responsive interface.
+
+| Category | Details |
+|----------|----------|
+| 🛠 Stack | React.js • Firebase • Node.js |
+| 📈 Scale | Multi User Platform |
+| ⚡ Performance | Fast Booking Workflow |
+| 🔒 Security | Firebase Authentication |
+| 🎯 Impact | Simplified Vehicle Rental |
+| 📂 Repository | Coming Soon |
+
+### ✨ Key Features
+
+- 🔑 Secure Authentication
+- 🚗 Vehicle Listings
+- 📅 Online Booking
+- 👤 User Dashboard
+- 📱 Responsive Design
+- 🔥 Firebase Backend
+- ⭐ Booking History
+- ⚙ Admin Management
+
+</details>
+
+---
+
+<details>
+<summary><b>💻 Full Stack CRUD Platform</b></summary>
+
+<br>
+
+### 📖 Overview
+
+Enterprise-level CRUD application featuring JWT authentication, role-based access control, secure REST APIs, and relational database management.
+
+| Category | Details |
+|----------|----------|
+| 🛠 Stack | React.js • Express.js • Node.js • MySQL |
+| 📈 Scale | Enterprise Ready |
+| ⚡ Performance | Optimized Queries |
+| 🔒 Security | JWT Authentication |
+| 🎯 Impact | Secure Data Management |
+| 📂 Repository | Coming Soon |
+
+### ✨ Key Features
+
+- 🔐 JWT Authentication
+- 👥 Role-Based Access
+- 📊 CRUD Operations
+- 📡 REST APIs
+- 💾 MySQL Database
+- 📱 Responsive UI
+- ⚡ High Performance
+- 🧩 Clean Architecture
+
+</details>
+
+---
+
+<details>
+<summary><b>🎉 Event Management System</b></summary>
+
+<br>
+
+### 📖 Overview
+
+A web-based platform developed to manage events, registrations, attendees, and event information through a responsive interface.
+
+| Category | Details |
+|----------|----------|
+| 🛠 Stack | HTML • CSS • JavaScript • Node.js • MySQL |
+| 📈 Scale | College Project |
+| ⚡ Performance | Optimized Database |
+| 🔒 Security | User Authentication |
+| 🎯 Impact | Efficient Event Management |
+| 📂 Repository | Coming Soon |
+
+### ✨ Key Features
+
+- 📝 Event Registration
+- 👤 User Login
+- 📅 Event Scheduling
+- 📊 Dashboard
+- 💾 Database Management
+- 📱 Mobile Responsive
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 Responsive Portfolio Website</b></summary>
+
+<br>
+
+### 📖 Overview
+
+A modern personal portfolio showcasing technical skills, projects, and achievements with responsive UI/UX principles.
+
+| Category | Details |
+|----------|----------|
+| 🛠 Stack | HTML5 • CSS3 • JavaScript • Tailwind CSS |
+| 📈 Scale | Personal Portfolio |
+| ⚡ Performance | Fast Loading |
+| 🔒 Security | Best Practices |
+| 🎯 Impact | Professional Branding |
+| 📂 Repository | Coming Soon |
+
+### ✨ Key Features
+
+- 📱 Responsive Layout
+- 🎨 Modern UI
+- ⚡ Optimized Performance
+- 📂 Project Showcase
+- 📧 Contact Section
+- 🌙 Clean Design
+
+</details>
+
+---
+
+# 💼 Professional Experience
+
+## Full Stack Developer Intern
+
+**Cognifyz Technologies**  
+📍 Ahmedabad, Gujarat  
+🗓 October 2024 – Present
+
+### Responsibilities
+
+- Developed production-ready Full Stack applications using **React.js**, **Node.js**, and **Express.js**.
+- Built scalable REST APIs and integrated frontend with backend services.
+- Collaborated within Agile development teams.
+- Performed debugging, testing, and code reviews.
+- Improved application performance and maintainability.
+- Followed Clean Code and SDLC best practices.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `JavaScript` `REST API` `Git` `GitHub`
+
+---
+
+## Sales Telecaller
+
+**The Consulting Tender Company**  
+📍 Ahmedabad, Gujarat
+
+### Responsibilities
+
+- Managed customer communication.
+- Resolved client queries.
+- Improved communication and problem-solving skills.
+- Maintained professional client relationships.
+
+**Skills**
+
+`Communication` `Client Handling` `Sales` `Problem Solving`
+
+---
+
+# 🏆 Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| 💻 Full Stack Developer | Built multiple production-ready web applications |
+| 🤖 AI Integration | Developed AI-enabled web applications |
+| 🚀 Software Engineering | Strong foundation in DSA, OOP & Clean Architecture |
+| 🌐 Web Development | Responsive Full Stack Applications |
+| 📚 Continuous Learning | Exploring AI, Cloud & Modern Technologies |
+
+---
+
+# 📜 Certifications
+
+### Programming
+
+![](https://img.shields.io/badge/Java-Oracle-red?style=for-the-badge&logo=oracle)
+
+![](https://img.shields.io/badge/Python-Certified-blue?style=for-the-badge&logo=python)
+
+![](https://img.shields.io/badge/Web%20Development-Certified-success?style=for-the-badge)
+
+---
+
+### Currently Preparing
+
+- ☁ AWS Cloud Practitioner
+- 🤖 AI & Machine Learning
+- 🐍 Advanced Python
+- ☕ Advanced Java
+- ⚛ React.js Advanced
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/HackerRank-Programming-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Coding-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-0F9D58?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+> 🚀 **GitHub Analytics, Trophy Section, Contribution Graph, Snake Animation & Premium Footer continue in Part 3.**
