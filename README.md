@@ -397,41 +397,27 @@ A modern personal portfolio showcasing technical skills, projects, and achieveme
 > 🚀 **GitHub Analytics, Trophy Section, Contribution Graph, Snake Animation & Premium Footer continue in Part 3.**
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ikrama09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikrama09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrama09&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ikrama09&theme=tokyonight&hide_border=true"/>
-
-</div>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikrama09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ikrama09&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ikrama09&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
 # 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikrama09&theme=tokyo-night&hide_border=true"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikrama09&bg_color=0d1117&color=8B5CF6&line=7C3AED&point=A855F7&area=true&hide_border=true"/>
+</p>
 
 ---
 
